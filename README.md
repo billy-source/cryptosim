@@ -112,21 +112,5 @@ Add trade history API (view all trades).
 
 Add deposit & withdraw APIs (M-Pesa integration) for Pro users.
 
-Connect with real crypto price API for live trading simulation.
 
-Build frontend dashboard (React, Vue, or Django templates).
 
-👨‍💻 Author
-Your Name
-
-GitHub | Email
-
-📜 License
-This project is licensed under the MIT License.
-
-yaml
-Copy code
-
----
-
-👉 Do you want me to also generate a `requirements.txt` for this project (with Django + DRF) so you c
